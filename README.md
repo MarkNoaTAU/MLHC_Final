@@ -5,7 +5,7 @@ This library contain research code for prediction mortality, prolong stay and ho
 MIMIC-III dataset. 
 This is final work for *"Machine Learning for Health Care"* course by Omer Noy. 
 
-Writers: Noa Mark, Yael Einy.
+Writers: Noa Mark.
 
 ## Installation:
 To run the code please first install requirements.py
