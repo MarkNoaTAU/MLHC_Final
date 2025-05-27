@@ -1,7 +1,7 @@
 # Machine Learning for Health Care Final Project TLV university 2023
 
 ## Project description 
-This library contain research code for prediction mortality, prolong stay and hospital readmission using
+This library contains research code for prediction mortality, prolong stay and hospital readmission using
 MIMIC-III dataset. 
 This is final work for *"Machine Learning for Health Care"* course by Omer Noy. 
 
